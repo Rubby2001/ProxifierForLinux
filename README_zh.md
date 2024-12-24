@@ -6,6 +6,14 @@
 
 这个工具是一个利用redsocks和iptables实现类似于Proxifier的透明代理的工具。
 
+## 编译
+
+```
+git clone https://github.com/Rubby2001/ProxifierForLinux.git
+cd ProxifierForLinux
+wails build
+```
+
 ## 用法
 
 1.安装redsocks(https://github.com/darkk/redsocks)。

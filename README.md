@@ -6,6 +6,14 @@
 
 This tool is a tool that uses redsocks and iptables to implement a transparent proxy similar to Proxifier.
 
+## Compile
+
+```
+git clone https://github.com/Rubby2001/ProxifierForLinux.git
+cd ProxifierForLinux
+wails build
+```
+
 ## Usage
 
 1. Install redsocks(https://github.com/darkk/redsocks).
